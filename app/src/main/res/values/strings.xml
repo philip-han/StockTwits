@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StockTwits</string>
+    <string name="stocktwits_base_url">https://api.stocktwits.com/api/2/</string>
 </resources>
